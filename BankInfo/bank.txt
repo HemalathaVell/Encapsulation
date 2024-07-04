@@ -1,0 +1,3 @@
+Hema,hema@101,10000
+Mohan,mohan@102,20000
+Yuvi,yuvi@103,30000
